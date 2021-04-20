@@ -1,0 +1,5 @@
+BROWSER=qutebrowser
+EDITOR=nvim
+PAGER=less
+TERMINAL=term
+VISUAL=nvim

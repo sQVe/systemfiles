@@ -1,0 +1,12 @@
+##
+## Arch Linux repository mirrorlist
+## Generated on 2021-03-01
+##
+
+# Sweden
+Server = https://ftp.acc.umu.se/mirror/archlinux/$repo/os/$arch
+Server = https://archlinux.dynamict.se/$repo/os/$arch
+Server = https://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
+Server = https://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
+Server = https://mirror.osbeck.com/archlinux/$repo/os/$arch
+Server = https://tedwall.se/archlinux/$repo/os/$archerver = https://mirror.checkdomain.de/archlinux/$repo/os/$arch

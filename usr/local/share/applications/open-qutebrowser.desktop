@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=qutebrowser
+GenericName=Web Browser
+Icon=qutebrowser
+Type=Application
+Categories=Network;WebBrowser;
+Exec=open-qutebrowser %u
+Terminal=false
+StartupNotify=false
+MimeType=application/xhtml+xml;application/xml;application/rdf+xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/qute;
+Keywords=Browser
